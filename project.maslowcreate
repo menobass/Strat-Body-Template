@@ -10,6 +10,37 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 1180.9090909090908,
+                    "y": 303.6363636363636,
+                    "uniqueID": 801978,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 1180.9090909090908,
+                    "y": 303.6363636363636,
+                    "uniqueID": 391536,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 496327",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 496327",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1249,
